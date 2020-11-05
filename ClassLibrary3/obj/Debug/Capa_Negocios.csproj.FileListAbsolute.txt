@@ -1,0 +1,11 @@
+C:\Users\Daniel Lopez\source\repos\Itla\ClassLibrary3\bin\Debug\ClassLibrary3.dll
+C:\Users\Daniel Lopez\source\repos\Itla\ClassLibrary3\bin\Debug\ClassLibrary3.pdb
+C:\Users\Daniel Lopez\source\repos\Itla\ClassLibrary3\bin\Debug\ClassLibrary1.dll
+C:\Users\Daniel Lopez\source\repos\Itla\ClassLibrary3\bin\Debug\ClassLibrary2.dll
+C:\Users\Daniel Lopez\source\repos\Itla\ClassLibrary3\bin\Debug\ClassLibrary1.pdb
+C:\Users\Daniel Lopez\source\repos\Itla\ClassLibrary3\bin\Debug\ClassLibrary2.pdb
+C:\Users\Daniel Lopez\source\repos\Itla\ClassLibrary3\obj\Debug\Capa_Negocios.csprojAssemblyReference.cache
+C:\Users\Daniel Lopez\source\repos\Itla\ClassLibrary3\obj\Debug\Capa_Negocios.csproj.CoreCompileInputs.cache
+C:\Users\Daniel Lopez\source\repos\Itla\ClassLibrary3\obj\Debug\Capa_Negocios.csproj.CopyComplete
+C:\Users\Daniel Lopez\source\repos\Itla\ClassLibrary3\obj\Debug\ClassLibrary3.dll
+C:\Users\Daniel Lopez\source\repos\Itla\ClassLibrary3\obj\Debug\ClassLibrary3.pdb

@@ -1,0 +1,6 @@
+C:\Users\Daniel Lopez\source\repos\Itla\ClassLibrary2\bin\Debug\ClassLibrary2.dll
+C:\Users\Daniel Lopez\source\repos\Itla\ClassLibrary2\bin\Debug\ClassLibrary2.pdb
+C:\Users\Daniel Lopez\source\repos\Itla\ClassLibrary2\obj\Debug\Capa_Entidades.csprojAssemblyReference.cache
+C:\Users\Daniel Lopez\source\repos\Itla\ClassLibrary2\obj\Debug\Capa_Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Daniel Lopez\source\repos\Itla\ClassLibrary2\obj\Debug\ClassLibrary2.dll
+C:\Users\Daniel Lopez\source\repos\Itla\ClassLibrary2\obj\Debug\ClassLibrary2.pdb

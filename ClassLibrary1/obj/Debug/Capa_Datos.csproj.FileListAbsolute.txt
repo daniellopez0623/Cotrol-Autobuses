@@ -1,0 +1,9 @@
+C:\Users\Daniel Lopez\source\repos\Itla\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\Daniel Lopez\source\repos\Itla\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\Daniel Lopez\source\repos\Itla\ClassLibrary1\bin\Debug\ClassLibrary2.dll
+C:\Users\Daniel Lopez\source\repos\Itla\ClassLibrary1\bin\Debug\ClassLibrary2.pdb
+C:\Users\Daniel Lopez\source\repos\Itla\ClassLibrary1\obj\Debug\Capa_Datos.csprojAssemblyReference.cache
+C:\Users\Daniel Lopez\source\repos\Itla\ClassLibrary1\obj\Debug\Capa_Datos.csproj.CoreCompileInputs.cache
+C:\Users\Daniel Lopez\source\repos\Itla\ClassLibrary1\obj\Debug\Capa_Datos.csproj.CopyComplete
+C:\Users\Daniel Lopez\source\repos\Itla\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\Daniel Lopez\source\repos\Itla\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
